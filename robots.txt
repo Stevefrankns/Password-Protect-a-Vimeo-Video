@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/Password-Protect-a-Vimeo-Video/sitemap.xml
